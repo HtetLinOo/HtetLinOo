@@ -115,17 +115,36 @@
 <br/><br/>
 
 <hr>
+
+<h1 align="center">
 ✨ Where you can find me ✨
   
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+ 
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/htet-lin-oo-a07720178/?fbclid=IwAR03_DIeeZ8P_cJGUVvZALgf7w8YRHFdXI0UCH5lIW_XncT4Ml9jQwuuMVU">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/HtetLinOo">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
 
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+  <br/>
+  <a href="https://www.facebook.com/profile.php?id=100008153656778">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com/htet_lin_oo_7/?igshid=f0oww1as4f8b&fbclid=IwAR0UJVB5PYlhqW3VzIUc_JvIeyLZSsMPjEDpHUgEKy2WkIbauFsT5ElZvng">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
 
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+  <a href="https://twitter.com/HtetLin42751657">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+</p>
+</h1>
 
 
 
