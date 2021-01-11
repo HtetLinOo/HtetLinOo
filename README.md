@@ -114,8 +114,18 @@
 <a href="https://github.com/HtetLinOo/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=HtetLinOo&show_icons=true&theme=gotham"></a>
 <br/><br/>
 
+<hr>
+✨ Where you can find me ✨
+  
+  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
-<br/>
+  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+
+  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+
+  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+
+  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 
 
