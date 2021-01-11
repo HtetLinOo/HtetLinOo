@@ -110,8 +110,8 @@
 
 <hr>
 
-<a href="https://github-readme-stats.vercel.app/api?username=HtetLinOo&show_icons=true&hide_border=true"></a>
 
+<a href="https://github.com/HtetLinOo/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=HtetLinOo&show_icons=true&theme=gotham"></a>
 <br/><br/>
 
 
