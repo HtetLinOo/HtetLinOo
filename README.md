@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-![GitHub followers](https://img.shields.io/github/followers/HtetLinOo?label=Follow&style=social)
+
 
 ## I'm Android, Flutter and Backend Developer!! 
 - 🧑‍💻 I'm currently learning Android Development, Flutter and Laravel.
