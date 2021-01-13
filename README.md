@@ -42,7 +42,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/git.png"/>
+<img height="60px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -91,7 +91,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Android Studio</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
+<img height="65px" src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
 </td>
 
 <td align="center" width="20%">
