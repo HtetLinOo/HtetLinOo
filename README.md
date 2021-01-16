@@ -7,9 +7,7 @@
 
 ## I'm Android, Flutter and Backend Developer!! 
 - 🧑‍💻 I'm currently learning Android Development, Flutter and Laravel.
-- 🙋‍♂️ I'm searching to job at Software Company.
 - I love to listen music🎧 / play guitar🎸/ play game🎮 and play football⚽️
-
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies Pyay.
 
   
