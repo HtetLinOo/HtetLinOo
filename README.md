@@ -48,7 +48,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Laravel</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-filled/50/000000/laravel.png"/>
+<img height=60px src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"/>
 </td>
 </tr>
 
@@ -78,7 +78,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Vue Js</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"/>
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
 </td>
 
 <td align="center" width="20%">
