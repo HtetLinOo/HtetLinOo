@@ -5,8 +5,8 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-## I'm Android, Flutter and Backend Developer!! 
-- 🧑‍💻 I'm currently learning Android Development, Flutter and Laravel.
+## I'm  Developer!! 
+- 🧑‍💻 I'm currently learning Javascript, PHP and Flutter.
 - I love to listen music🎧 / play guitar🎸/ play game🎮 and play football⚽️
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies Pyay.
 
