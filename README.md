@@ -16,21 +16,24 @@
 <br>
 <table>
 <tbody>
- <tr>
+<tr>
+
 <td align="center" width="20%">
-<span><b><center>Kotlin</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/50/000000/kotlin.png"> 
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+  
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Vue Js</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"/>
+<span><b><center>Bootstrap</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Dart</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/dart.png"/>
-</tr>
+</tr> 
 
 <tr>
 <td align="center" width="20%">
@@ -67,25 +70,22 @@
 <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
 </tr>
-
 <tr>
-
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-  
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<span><b><center>Kotlin</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/50/000000/kotlin.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<span><b><center>Vue Js</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"/>
 </td>
 
+<td align="center" width="20%">
+<span><b><center>Dart</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/48/000000/dart.png"/>
 </tr>
+
  <tr>
 <td align="center" width="20%">
 <span><b><center>Android Studio</center></b></span> 
