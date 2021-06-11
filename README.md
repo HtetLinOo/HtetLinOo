@@ -23,8 +23,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<span><b><center>Vue Js</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"/>
 </td>
 
 <td align="center" width="20%">
