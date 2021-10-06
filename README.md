@@ -77,8 +77,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Vue Js</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
+<span><b><center>React Js</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
 </td>
 
 <td align="center" width="20%">
