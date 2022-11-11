@@ -6,9 +6,9 @@
 
 
 ## I'm  Developer!! 
-- 🧑‍💻 I'm currently learning Javascript, PHP and Flutter.
+- 🧑‍💻 I'm currently learning Javascript, ReactJS and PHP.
 - I love to listen music🎧 / play guitar🎸/ play game🎮 and play football⚽️
-- 🎓 &nbsp; Studied Computer Science at University of Computer Studies Pyay.
+- 🎓 &nbsp;Studied Computer Science at University of Computer Studies Pyay.
 
   
 ## Tech Stack :computer:
