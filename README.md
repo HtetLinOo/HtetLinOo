@@ -86,22 +86,6 @@
 <img height=60px src="https://img.icons8.com/color/48/000000/dart.png"/>
 </tr>
 
- <tr>
-<td align="center" width="20%">
-<span><b><center>Android Studio</center></b></span> 
-<img height="60px" src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>VS Code</center></b></span> 
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-</td>
-
-<td align="center" width="20%">
-<span><b><center>IntelliJ IDEA</center></b></span> 
-<img height="65px"src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-</tr>
-
 </tbody>
 </table>
 
