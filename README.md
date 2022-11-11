@@ -19,7 +19,7 @@
 <tr>
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
+<span><b><center>HTML5</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
   
