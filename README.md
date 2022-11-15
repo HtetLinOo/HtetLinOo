@@ -37,7 +37,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Php</center></b></span> 
+<span><b><center>PHP</center></b></span> 
 <img height=60px src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 </td>
 
